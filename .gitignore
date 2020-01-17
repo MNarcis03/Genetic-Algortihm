@@ -1,0 +1,4 @@
+#Ignore PyCharm Generated Files
+.idea
+#Ignore Logs Text File
+logs.txt
